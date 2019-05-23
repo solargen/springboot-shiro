@@ -1,2 +1,2 @@
 # springboot-shiro
-springboot与shiro的集成
+springboot整合shiro实现身份认证和授权
